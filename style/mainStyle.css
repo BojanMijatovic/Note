@@ -1,26 +1,21 @@
 * {
   padding: 0;
   margin: 0;
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
-}
+  box-sizing: border-box; }
 
 html {
-  font-size: 15px;
-  font-family: 'Muli', sans-serif;
-}
+  font-size: 10px;
+  font-family: 'Muli', sans-serif; }
 
 body {
-  background-color: white;
-}
+  background-color: white; }
 
 /* Add a black background color to the top navigation */
 .navbar {
   background-color: #FFFFFF;
   overflow: hidden;
   border-bottom: 1px solid #f2f2f2;
-  position: relative;
-}
+  position: relative; }
 
 /* Style the links inside the navigation bar */
 .navbar a {
@@ -31,31 +26,26 @@ body {
   padding: 14px 16px;
   text-decoration: none;
   font-size: 17px;
-  border-bottom: 3px solid transparent;
-}
+  border-bottom: 3px solid transparent; }
 
 .navbar a:hover {
-  border-bottom: 3px solid #0099ff;
-}
+  border-bottom: 3px solid #0099ff; }
 
 .navbar a.active {
-  border-bottom: 3px solid #0099ff;
-}
+  border-bottom: 3px solid #0099ff; }
 
 .navbar a.logo {
   float: left;
   border-bottom: none;
-  font-size: 17px;
-}
+  font-size: 17px; }
 
 .navbar a.login {
   float: right;
   background-color: #0099ff;
   font-size: 17px;
-  color: #FFFFFF;
-}
+  color: #FFFFFF; }
 
-.navbar img.logoimage {
-  width: 20px;
-}
+.navbar img.logoImage {
+  width: 20px; }
+
 /*# sourceMappingURL=mainStyle.css.map */
