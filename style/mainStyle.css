@@ -23,9 +23,9 @@ body {
   display: block;
   color: #333;
   text-align: center;
-  padding: 14px 16px;
+  padding: 1.4rem 1.6rem;
   text-decoration: none;
-  font-size: 17px;
+  font-size: 1.7rem;
   border-bottom: 3px solid transparent; }
 
 .navbar a:hover {
@@ -37,15 +37,15 @@ body {
 .navbar a.logo {
   float: left;
   border-bottom: none;
-  font-size: 17px; }
+  font-size: 1.7rem; }
 
 .navbar a.login {
   float: right;
   background-color: #0099ff;
-  font-size: 17px;
+  font-size: 1.7rem;
   color: #FFFFFF; }
 
 .navbar img.logoImage {
-  width: 20px; }
+  width: 2rem; }
 
 /*# sourceMappingURL=mainStyle.css.map */
